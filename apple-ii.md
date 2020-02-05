@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset=”utf-8”>
-	<title>Flynn’s Retro Computers </title>
+	<!--<title>Flynn’s Retro Computers </title>-->
 </head>
 <body>
 <h4>Flynn's Retro Computers</h4>
