@@ -19,9 +19,9 @@
 
 <h3> Microcomputers</h3>
 <ul>
-<li>Apple II </li>
-<li>Commodore 64</li>
-<li>TRS 80</li>
+	<li><a href= "apple-ii.md">Apple II</a> </li>
+	<li><a href= "commodore-64.md">Commodore 64</a></li>
+	<li><a href= "trs-80.md">TRS 80</a></li>
 </ul>
 
 <h3> Accessories</h3>
